@@ -1,0 +1,23 @@
+{
+    "name" : "mongoose-s3-file",
+    "description" : "Introduces a new S3File schema type, to seamlessly upload Base64 encoded files to amazon S3",
+    "version" : "0.0.1",
+    "author" : {
+        "name" : "Varun Oberoi",
+        "email" : "qwert2099@gmail.com"
+    },
+    "homepage" : "https://github.com/varunoberoi/mongoose-s3-file",
+    "devDependencies" : {
+    },
+    "dependencies": {
+    },
+    "main" : "mongoose-s3-file.js",
+    "engines" : { "node": "*" },
+    "repository" : {
+        "type" : "git",
+        "url": "git://github.com/varunoberoi/mongoose-s3-file.git"
+    },
+    "keywords" : [
+        "mongoose", "file upload", "base64", "amazon", "s3"
+    ]
+}
