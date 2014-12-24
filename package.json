@@ -13,6 +13,7 @@
   "dependencies": {
     "async": "^0.8.0",
     "aws-sdk": "^2.0.0-rc.16",
+    "gm": "^1.17.0",
     "lodash": "^2.4.1"
   },
   "main": "mongoose-s3-file.js",
