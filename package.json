@@ -8,7 +8,9 @@
   },
   "homepage": "https://github.com/varunoberoi/mongoose-s3-file",
   "devDependencies": {
-    "chai": "^1.10.0"
+    "chai": "^1.10.0",
+    "debug": "^2.2.0",
+    "mongoose": "^4.0.6"
   },
   "dependencies": {
     "async": "^0.8.0",
